@@ -1,6 +1,7 @@
+
 <?php include 'header.php'; ?>
 <div id="main-content">
-    <h2>Add New Record</h2>
+    <h1>Add New Record</h1>
     <form class="post-form" action="savedata.php" method="post">
         <div class="form-group row">
             <label class="col-md-2" for="exampleInputName1">Name</label>
